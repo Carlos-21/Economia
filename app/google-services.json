@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "887714663366-v2533kujer8pi3h4odfgeupoon4vnalu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "economia.edu.pe.unmsm.barcode",
+            "certificate_hash": "9e514736a34301d35150b698cb8ff220e6da0962"
+          }
+        },
+        {
           "client_id": "887714663366-giu3t0ugl27hthllnamede0frgcctu71.apps.googleusercontent.com",
           "client_type": 3
         }
