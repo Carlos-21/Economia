@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BarCode</string>
+    <string name="not_log_in">No se pudo iniciar sesión</string>
+    <string name="not_firebase_auth">No se pudo autenticar con Firebase</string>
+</resources>

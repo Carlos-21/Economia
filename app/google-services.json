@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "887714663366",
+    "firebase_url": "https://economia-d346d.firebaseio.com",
+    "project_id": "economia-d346d",
+    "storage_bucket": "economia-d346d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887714663366:android:c8cb39c1569005b6",
+        "android_client_info": {
+          "package_name": "economia.edu.pe.unmsm.barcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887714663366-tiv9gfkcj0m3tt3qipak50mb7is4ikff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "economia.edu.pe.unmsm.barcode",
+            "certificate_hash": "06f8ba980d6cb9c462233e6d9c081dd630c3a1ac"
+          }
+        },
+        {
+          "client_id": "887714663366-giu3t0ugl27hthllnamede0frgcctu71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-tRNDi6DkR5WQax17Hpc-J7VMzF0c5qA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887714663366-giu3t0ugl27hthllnamede0frgcctu71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
